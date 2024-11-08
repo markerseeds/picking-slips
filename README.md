@@ -1,4 +1,5 @@
 Note: This is created using node v20.11.1 and npm v10.9.0
+Note: the API by default limits 100
 
 1. run npm install
 2. run npm start
